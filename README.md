@@ -18,6 +18,28 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+USECASE DIAGRAM :
+![image](https://github.com/user-attachments/assets/a84de68a-4b06-418a-a8ff-d7db9de1a6e8)
+
+
+CLASS DIAGRAM :
+![image](https://github.com/user-attachments/assets/17867483-bd79-42e9-8a0a-309a026be763)
+
+
+SEQUENCE DIAGRAM :
+![image](https://github.com/user-attachments/assets/c10996a5-d698-4303-9cd2-ec9e63f0052d)
+
+
+ACTIVITY DIAGRAM :
+![image](https://github.com/user-attachments/assets/c40cb45e-5b2b-44bd-943c-5b51d28b54bd)
+
+
+COMMUNICATION DIAGRAM :
+![image](https://github.com/user-attachments/assets/9e54db1d-2c52-4ece-b3e7-f3a1213f6266)
+
+
+PACKAGE DIAGRAM :
+![image](https://github.com/user-attachments/assets/6a31f2e4-85aa-4dfb-8958-96eb7719d038)
 
 
 
